@@ -73,3 +73,25 @@ int main()
 
     return 0;
 }
+asfaa
+as
+a
+s
+da
+f
+as
+f
+as
+f
+as
+fa
+f
+a
+
+f
+af
+a
+f
+af
+a
+d
