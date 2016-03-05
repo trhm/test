@@ -12,6 +12,7 @@ public:
    void wyswietl()
    {
       cout<<nazwa<<"("<<x<<","<<y<<")"<<endl;
+	  cout << "kurwa moja noga" << endl;
    }
    Punkt(string n="S", float a=0, float b=0)
    {
