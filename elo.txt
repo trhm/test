@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+arek tez tu byl
+=======
+damian by³ tu 
+>>>>>>> 691a69d643818d0beca517a20be229ebd12405e9
